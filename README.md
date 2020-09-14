@@ -8,7 +8,7 @@ Development of the process used in the Pundits Review website to recognise Premi
 
 
 ## About this repository
-This repository shows the progression of the methods used to recognise the players being written about in a phrase within a football news article. The methods employ a spacy model to recognise the syntatic dependencies of words in a phrase. My final solution matches words which; a) Appear as a proper noun | b) Are longer than 3 characters | c) Appear in key syntactic dependency positions | d) Are listed as a player or club identifier. 
+This repository shows the progression of the methods used to recognise the players being written about in a phrase within a football news article. The methods employ a spacy model to recognise the syntatic dependencies of words in a phrase. My final solution matches words which; a) Appear as a proper noun, b) Are longer than 3 characters, c) Appear in key syntactic dependency positions, d) Are listed as a player or club identifier. 
 
 ## Contents
 
